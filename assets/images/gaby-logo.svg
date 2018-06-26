@@ -1,0 +1,33 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 617.12 206.7">
+	<defs>
+		<style>
+			.cls-1 {
+				fill: none;
+				stroke: #ffffff;
+				stroke-miterlimit: 10;
+				stroke-width: 5px;
+			}
+
+			.cls-1 {
+			  stroke-dasharray: 3000;
+			  stroke-dashoffset: 0;
+			  -webkit-animation: dash 4s linear forwards;
+			  -o-animation: dash 4s linear forwards;
+			  -moz-animation: dash 4s linear forwards;
+			  animation: dash 4s linear forwards;
+			}
+			@-webkit-keyframes dash {
+			  from {
+			    stroke-dashoffset: 3000;
+			  }
+			  to {
+			    stroke-dashoffset: 0;
+			  }
+			}
+
+		</style>
+	</defs>
+	<title>gaby-logo</title><path
+		class="cls-1"
+		d="M584.65,52.31,554.81,115l-10.23,26h-.53q-5.26-13-10.52-26L503.71,52.31H360.42V207.75l-77-159h-8.85L221.75,158c.42-4.8.62-9.74.62-14.77v-8.84H126.23v35.91a199.16,199.16,0,0,0,35.37,0c6.5-.58,12.59-1.44,18.23-2.48-2.48,20.17-16.58,40.61-53.05,40.61C92,208.4,69,184.37,69,148.16c0-34.79,23.76-58.56,58.85-58.56,18.24,0,37.3,6.64,52,17.4l24.32-34.79c-21.55-15.75-46.43-24.06-74.89-24.06-62.44,0-104.14,40.63-104.14,100.57,0,60.5,41.7,101.13,102.76,101.13,23.94,0,43.21-6.46,58-17.71l-6.54,13.55h47l18.25-40.33h69.34l18,40.33H444.15c39.51,0,63.54-20.16,63.54-53.6,0-25.41-13.27-40.6-38.69-45.85a76.34,76.34,0,0,0-17.13-1.65v-1.12a61.47,61.47,0,0,0,16.58-3c10.6-3.15,18.53-9.68,23.16-18.92l31.15,55.65v68.52h42.82V177.17l69.9-124.86Z"
+		transform="translate(-22.62 -45.65)"/></svg>
